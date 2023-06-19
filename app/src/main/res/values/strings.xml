@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DAM_UC3_VictorHuamanSimeon</string>
+    <string name="textview_facebook">textviewfacebook</string>
+    <string name="textview_correoElectronico">Correo Electronico</string>
+    <string name="textview_contraseña">Contraseña</string>
+    <string name="textview_cerrarseccion">No Cerrar Sesion</string>
+    <string name="Textviewolvidocontraseña">¿Haz olvidado tu contraseña?</string>
+    <string name="button_Entrar">Entrar</string>
+    <string name="button_Registrate">Registrate</string>
+    <string name="textview_Nombre">Nombre</string>
+    <string name="textview_apellidos">Apellidos</string>
+    <string name="textview_correoelectronico">Correo Electronico</string>
+    <string name="textview_contraseñanueva">Contraseña Nueva</string>
+</resources>
